@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Thầy hùng gà hihi!");
+        System.out.println("Hello world Khoa! Hihi co y conflict");
+
     }
 }
+
